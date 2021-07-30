@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.pesquisar{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+input{
+    height: 30px;
+    width: 500px;
+}
+
+
+
+img{
+    width: 30px;
+}
